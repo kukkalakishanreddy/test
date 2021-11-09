@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 kishan how are you`
+=======
+kishan how are you my frienear
+
+
+
+
+
+
+t
+i am good 
+>>>>>>> newbranch2
