@@ -5,4 +5,8 @@ wanted to merge newbranch2 to newbranch
 here is the newbranch2
 
 what the fuck man`
+<<<<<<< HEAD
 yeah what the fuck dev3
+=======
+yeah what the fuck dev3
+>>>>>>> copy
