@@ -1,5 +1,9 @@
+<<<<<<< HEiAD
 this is my first line change
 this is the first line in copy
+=======
+hai this is mychange
+>>>>>>> copy2
 hai this is kishan how are you. I am doing good.how are you.hai br
 o
 wanted to merge newbranch2 to newbranch
@@ -10,5 +14,5 @@ what the fuck man`
 <<<<<<< HEAD
 yeah what the fuck dev3
 =======
-yeah what the fuck dev3
+yeah what the fuck dev4
 >>>>>>> copy
