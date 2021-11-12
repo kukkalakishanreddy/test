@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEiAD
@@ -20,3 +21,6 @@ yeah what the fuck dev3
 yeah what the fuck dev3
 >>>>>>> copy
 >>>>>>> 57c2045e2e73ea3a9164f542992892a3362ddc7d
+=======
+
+>>>>>>> copy
